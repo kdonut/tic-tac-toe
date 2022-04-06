@@ -1,7 +1,7 @@
 #active-game {
     text-align: center;
     margin: 2rem 0 5rem 0;
-   /* display: none;*/
+    display: none;
 }
 
 #game-over {
@@ -58,4 +58,5 @@
     background-color: rgb(112, 13, 204);
     cursor: default;
     color: white;
+    
 }
